@@ -1,0 +1,39 @@
+:root { 
+    --black: #000000;
+    --cultured-pearl: #f5f5f55c;
+    --science-blue: #006dc6;
+    --white: #ffffff;
+   
+    --font-size-l: 20px;
+    --font-size-s: 15px;
+    --font-size-xl: 25px;
+    --font-size-xxl: 30px;
+    --font-size-xxxl: 39px;
+   
+    --font-family-inter: "Inter", Helvetica;
+    --font-family-poppins: "Poppins", Helvetica;
+  }
+  .inter-semi-bold-black-25px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .poppins-bold-science-blue-20px {
+    color: var(--science-blue);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .inter-medium-black-39px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 500;
+  }
+  

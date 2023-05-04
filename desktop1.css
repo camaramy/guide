@@ -1,0 +1,543 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 2872px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .frame-5 {
+    flex-direction: column;
+    gap: 10px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    z-index: 9;
+  }
+  
+  .desktop-1 .component-2 {
+    background-color: var(--white);
+    height: 66px;
+    min-width: 1440px;
+    position: relative;
+  }
+  
+  .desktop-1 .flex-row {
+    align-items: center;
+    display: flex;
+    left: 75px;
+    min-width: 1324px;
+    position: relative;
+    top: 2px;
+  }
+  
+  .desktop-1 .rectangle-58 {
+    height: 64px;
+    object-fit: cover;
+    width: 89px;
+  }
+  
+  .desktop-1 .acceuil {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 9.62px;
+    margin-left: 650px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 77px;
+  }
+  
+  .desktop-1 .destinations {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 11.02px;
+    margin-left: 35px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 131px;
+  }
+  
+  .desktop-1 .place {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 11.02px;
+    margin-left: 31px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 45px;
+  }
+  
+  .desktop-1 .icon-user-circle {
+    cursor: pointer;
+    height: 28px;
+    margin-bottom: 2.0px;
+    margin-left: 48px;
+    width: 38px;
+  }
+  
+  .desktop-1 .fr {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 11.02px;
+    margin-left: 89px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 24px;
+  }
+  
+  .desktop-1 .icon-search {
+    cursor: pointer;
+    height: 28px;
+    margin-bottom: 2.0px;
+    margin-left: 27px;
+    width: 40px;
+  }
+  
+  .desktop-1 .overlap-group4 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645382f0244cad3e193f154d/releases/6453a52dfada15d20d3979da/img/rectangle-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 696px;
+    margin-top: 66px;
+    position: relative;
+    width: 1440px;
+    z-index: 1;
+  }
+  
+  .desktop-1 .rectangle-41 {
+    background-color: #1616168f;
+    border-radius: 100px;
+    cursor: pointer;
+    height: 119px;
+    left: 392px;
+    position: absolute;
+    top: 452px;
+    transform: rotate(0.08deg);
+    width: 602px;
+  }
+  
+  .desktop-1 .aller-a-la-decouverte-du-sngal {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxl);
+    font-weight: 700;
+    left: 455px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 478px;
+    white-space: nowrap;
+    width: 539px;
+  }
+  
+  .desktop-1 .overlap-group6 {
+    height: 47px;
+    margin-left: 4.98px;
+    margin-top: 126px;
+    position: relative;
+    width: 697px;
+    z-index: 5;
+  }
+  
+  .desktop-1 .line {
+    height: 10px;
+    left: 0;
+    position: absolute;
+    top: 17px;
+    width: 697px;
+  }
+  
+  .desktop-1 .title {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    left: 266px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .frame-6 {
+    gap: 112px;
+    margin-left: 26.0px;
+    margin-top: 71px;
+    position: relative;
+    z-index: 7;
+  }
+  
+  .desktop-1 .rectangle-1 {
+    height: 350px;
+    min-width: 350px;
+    object-fit: cover;
+    position: relative;
+  }
+  
+  .desktop-1 .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 47px;
+    margin-right: 57.0px;
+    margin-top: 58px;
+    min-width: 1137px;
+    z-index: 6;
+  }
+  
+  .desktop-1 .voyages {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 47px;
+    min-width: 160px;
+  }
+  
+  .desktop-1 .hbergements {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 308px;
+    min-height: 47px;
+    min-width: 277px;
+  }
+  
+  .desktop-1 .activits {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 228px;
+    min-height: 47px;
+  }
+  
+  .desktop-1 .overlap-group8 {
+    height: 47px;
+    margin-left: 4.98px;
+    margin-top: 190px;
+    position: relative;
+    width: 697px;
+    z-index: 2;
+  }
+  
+  .desktop-1 .destinations-1 {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    left: 236px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    gap: 69px;
+    margin-left: 25.0px;
+    margin-top: 27px;
+    min-width: 1295px;
+    z-index: 3;
+  }
+  
+  .desktop-1 .overlap-group3 {
+    height: 379px;
+    position: relative;
+    width: 392px;
+  }
+  
+  .desktop-1 .overlap-group {
+    align-items: flex-end;
+    background-color: var(--cultured-pearl);
+    border-radius: 25px;
+    display: flex;
+    filter: blur(7px);;
+    flex-direction: column;
+    gap: 55px;
+    left: 0;
+    min-height: 379px;
+    padding: 13.6px 0;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .desktop-1 .rectangle-4 {
+    height: 229px;
+    object-fit: cover;
+    width: 390px;
+  }
+  
+  .desktop-1 .place-1 {
+    margin-right: 42px;
+    width: 220px;
+  }
+  
+  .desktop-1 .line-1 {
+    height: 5px;
+    left: 22px;
+    position: absolute;
+    top: 312px;
+    width: 346px;
+  }
+  
+  .desktop-1 .overlap-group7 {
+    height: 379px;
+    position: relative;
+    width: 834px;
+  }
+  
+  .desktop-1 .frame-1 {
+    gap: 47px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .group-2 {
+    cursor: pointer;
+    height: 378.81px;
+    min-width: 392px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group-1 {
+    align-items: center;
+    background-color: var(--cultured-pearl);
+    border-radius: 25px;
+    display: flex;
+    filter: blur(7px);;
+    flex-direction: column;
+    gap: 55px;
+    min-height: 379px;
+    padding: 13.6px 0;
+    width: 390px;
+  }
+  
+  .desktop-1 .place-2 {
+    cursor: pointer;
+    margin-left: 95.0px;
+    width: 159px;
+  }
+  
+  .desktop-1 .group-3 {
+    height: 378.81px;
+    margin-right: -2.00px;
+    min-width: 399px;
+    position: relative;
+  }
+  
+  .desktop-1 .overlap-group1 {
+    height: 379px;
+    position: relative;
+    width: 397px;
+  }
+  
+  .desktop-1 .rectangle-3 {
+    background-color: var(--cultured-pearl);
+    border-radius: 25px;
+    filter: blur(7px);;
+    height: 379px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .desktop-1 .rectangle-4-1 {
+    left: 7px;
+  }
+  
+  .desktop-1 .petite-cte {
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 294px;
+    width: 232px;
+  }
+  
+  .desktop-1 .line-3 {
+    height: 5px;
+    left: 460px;
+    position: absolute;
+    top: 311px;
+    width: 346px;
+  }
+  
+  .desktop-1 .line-2 {
+    height: 4px;
+    left: 26px;
+    position: absolute;
+    top: 313px;
+    width: 355px;
+  }
+  
+  .desktop-1 .overlap-group5 {
+    align-self: flex-end;
+    height: 393px;
+    margin-right: 17px;
+    margin-top: 30px;
+    position: relative;
+    width: 1329px;
+    z-index: 4;
+  }
+  
+  .desktop-1 .group-4 {
+    align-items: flex-start;
+    display: flex;
+    gap: 32px;
+    height: 393px;
+    left: 0;
+    min-width: 1329px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .group-3-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 52px;
+    height: 393px;
+    min-width: 857px;
+  }
+  
+  .desktop-1 .overlap-group-2 {
+    align-self: flex-end;
+    height: 379px;
+    position: relative;
+    width: 413px;
+  }
+  
+  .desktop-1 .rectangle-4-2 {
+    left: 0;
+  }
+  
+  .desktop-1 .sine-saloum {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    left: 106px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 284px;
+    width: 307px;
+  }
+  
+  .desktop-1 .overlap-group1-1 {
+    align-items: flex-end;
+    background-color: var(--cultured-pearl);
+    border-radius: 25px;
+    display: flex;
+    filter: blur(7px);;
+    flex-direction: column;
+    gap: 56px;
+    min-height: 379px;
+    padding: 13.6px 0;
+    width: 390px;
+  }
+  
+  .desktop-1 .petite-cte-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 30px;
+    min-height: 38px;
+    width: 232px;
+  }
+  
+  .desktop-1 .overlap-group2 {
+    height: 379px;
+    position: relative;
+    width: 438px;
+  }
+  
+  .desktop-1 .sngal-oriental {
+    left: 114px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 300px;
+    width: 324px;
+  }
+  
+  .desktop-1 .line-4 {
+    height: 5px;
+    left: 13px;
+    position: absolute;
+    top: 313px;
+    width: 346px;
+  }
+  
+  .desktop-1 .line-5 {
+    height: 5px;
+    left: 487px;
+    position: absolute;
+    top: 314px;
+    width: 346px;
+  }
+  
+  .desktop-1 .line-6 {
+    height: 5px;
+    left: 930px;
+    position: absolute;
+    top: 312px;
+    width: 55px;
+  }
+  
+  .desktop-1 .line-7 {
+    height: 4px;
+    left: 1223px;
+    position: absolute;
+    top: 316px;
+    width: 63px;
+  }
+  
+  .desktop-1 .component-1 {
+    align-items: flex-start;
+    background-color: var(--science-blue);
+    display: flex;
+    height: 109px;
+    justify-content: flex-end;
+    margin-top: 235px;
+    min-width: 1440px;
+    padding: 35px 414px;
+    z-index: 8;
+  }
+  
+  .desktop-1 .copyright-2023-a {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-s);
+    font-weight: 600;
+    letter-spacing: 2.02px;
+    line-height: 26.8px;
+    min-height: 27px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .frame {
+    align-items: flex-start;
+    display: flex;
+    width: fit-content;
+  }
+  
+  .desktop-1 .place-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 41px;
+  }
+  
+  .desktop-1 .rectangle-4-3 {
+    height: 229px;
+    object-fit: cover;
+    position: absolute;
+    top: 14px;
+    width: 390px;
+  }
+  
