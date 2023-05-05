@@ -1,0 +1,655 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 3312px;
+    width: 1440px;
+  }
+  
+  .desktop-3 .component-4 {
+    align-items: center;
+    background-color: var(--white);
+    height: 66px;
+    left: 0;
+    padding: 0 41px;
+    position: fixed;
+    top: 0;
+    z-index: 7;
+  }
+  
+  .desktop-3 .rectangle-58 {
+    align-self: flex-end;
+    cursor: pointer;
+    height: 64px;
+    object-fit: cover;
+    width: 89px;
+  }
+  
+  .desktop-3 .acceuil {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 7.62px;
+    margin-left: 650px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 77px;
+  }
+  
+  .desktop-3 .destinations {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 9.02px;
+    margin-left: 35px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 131px;
+  }
+  
+  .desktop-3 .place {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 9.02px;
+    margin-left: 31px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 45px;
+  }
+  
+  .desktop-3 .icon-user-circle {
+    cursor: pointer;
+    height: 28px;
+    margin-left: 48px;
+    width: 38px;
+  }
+  
+  .desktop-3 .fr {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 9.02px;
+    margin-left: 89px;
+    min-height: 21px;
+    white-space: nowrap;
+    width: 24px;
+  }
+  
+  .desktop-3 .icon-search {
+    cursor: pointer;
+    height: 28px;
+    margin-left: 27px;
+    width: 40px;
+  }
+  
+  .desktop-3 .group-6 {
+    height: 577px;
+    margin-left: 6.0px;
+    margin-top: 156px;
+    min-width: 1354px;
+    z-index: 1;
+  }
+  
+  .desktop-3 .overlap-group-3 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--science-blue);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    min-height: 577px;
+    padding: 82px 50px;
+    width: 1336px;
+  }
+  
+  .desktop-3 .flex-row {
+    align-items: center;
+    display: flex;
+    height: 80px;
+    margin-right: 2px;
+    margin-top: 40px;
+    min-width: 1154px;
+  }
+  
+  .desktop-3 .destination {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 38px;
+    min-width: 144px;
+  }
+  
+  .desktop-3 .overlap-group5 {
+    align-items: flex-start;
+    align-self: flex-start;
+    background-color: var(--black-2);
+    border-radius: 30px;
+    display: flex;
+    gap: 48px;
+    height: 79px;
+    justify-content: flex-end;
+    margin-left: 34px;
+    min-width: 305px;
+    padding: 16px 64px;
+  }
+  
+  .desktop-3 .place-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 38px;
+    min-width: 76px;
+  }
+  
+  .desktop-3 .icon-chevron-down {
+    align-self: center;
+    height: 14px;
+    margin-top: 5.46px;
+    width: 34px;
+  }
+  
+  .desktop-3 .type-dhebergement {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 14.0px;
+    margin-left: 28px;
+    min-height: 38px;
+    min-width: 259px;
+  }
+  
+  .desktop-3 .overlap-group3 {
+    align-self: flex-end;
+    border-radius: 30px;
+    height: 79px;
+    margin-left: 48px;
+    position: relative;
+    
+  }
+  
+  .desktop-3 .icon-chevron-down-1 {
+    height: 22px;
+    left: 247px;
+    position: absolute;
+    top: 32px;
+    width: 49px;
+  }
+  
+  .desktop-3 .rectangle-25 {
+    background-color: var(--black-2);
+    border-radius: 30px;
+    height: 79px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 336px;
+  }
+  
+  .desktop-3 .chambre-simple {
+    left: 21px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+  }
+  
+  .desktop-3 .flex-row-1 {
+    align-items: center;
+    display: flex;
+    margin-top: 77px;
+    min-width: 1156px;
+  }
+  
+  .desktop-3 .date-darrive {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 11.0px;
+    min-height: 38px;
+    min-width: 178px;
+  }
+  
+  .desktop-3 .overlap-group2 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    border-radius: 30px;
+    display: flex;
+    gap: 83px;
+    height: 81px;
+    margin-left: 34px;
+    min-width: 310px;
+    padding: 12px 49px;
+  }
+  
+  .desktop-3 .choisir {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 38px;
+    min-width: 84px;
+  }
+  
+  .desktop-3 .icon-calendar {
+    cursor: pointer;
+    height: 46px;
+    width: 39px;
+  }
+  
+  .desktop-3 .date-de-depart {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 19.0px;
+    margin-left: 58px;
+    min-height: 38px;
+    min-width: 190px;
+  }
+  
+  .desktop-3 .overlap-group1 {
+    align-items: flex-start;
+    background-color: var(--black-2);
+    border-radius: 30px;
+    display: flex;
+    gap: 83px;
+    height: 81px;
+    margin-left: 76px;
+    min-width: 310px;
+    padding: 12px 49px;
+  }
+  
+  .desktop-3 .choisir-1 {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 38px;
+    min-width: 84px;
+  }
+  
+  .desktop-3 .overlap-group4 {
+    align-items: flex-end;
+    background-color: var(--science-blue);
+    border-radius: 30px;
+    display: flex;
+    height: 79px;
+    margin-right: 42px;
+    margin-top: 56px;
+    min-width: 227px;
+    padding: 20px 46px;
+  }
+  
+  .desktop-3 .recherche {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 38px;
+    min-width: 135px;
+    padding-left: 30px;
+    padding-top: 5px;
+  }
+  
+  .desktop-3 .group-7 {
+    margin-right: 4.0px;
+    margin-top: 99px;
+    min-width: 1368px;
+    z-index: 2;
+  }
+  
+  .desktop-3 .overlap-group6 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454e270404327a502f86382/img/rectangle-27.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 457px;
+    justify-content: flex-end;
+    min-width: 1360px;
+    padding: 51px 37px;
+  }
+  
+  .desktop-3 .rectangle-28 {
+    height: 280px;
+    margin-top: 18px;
+    object-fit: cover;
+    width: 376px;
+  }
+  
+  .desktop-3 .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+    margin-left: 46px;
+    min-height: 249px;
+    width: 471px;
+  }
+  
+  .desktop-3 .flex-row-2 {
+    align-items: flex-start;
+    display: flex;
+    height: 63px;
+    min-width: 330px;
+  }
+  
+  .desktop-3 .title {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 45px;
+    min-width: 224px;
+  }
+  
+  .desktop-3 .icon-star {
+    height: 14px;
+    margin-left: 11px;
+    margin-top: 11px;
+    width: 25px;
+  }
+  
+  .desktop-3 .icon-star-1 {
+    margin-top: 11px;
+  }
+  
+  .desktop-3 .icon-thumbs_up {
+    height: 34px;
+    margin-left: 11px;
+    width: 34px;
+  }
+  
+  .desktop-3 .proposant-un-hberge {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 150px;
+    width: 452px;
+  }
+  
+  .desktop-3 .overlap-group-container {
+    align-items: flex-end;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 59px;
+    margin-top: 37.0px;
+    min-height: 188px;
+    width: 306px;
+  }
+  
+  .desktop-3 .overlap-group {
+    align-items: center;
+    background-color: var(--science-blue);
+    border-radius: 30px;
+    display: flex;
+    height: 79px;
+    justify-content: flex-end;
+    margin-right: 3px;
+    min-width: 227px;
+    padding: 0 44px;
+  }
+  
+  .desktop-3 .afficher-prix {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 33px;
+    min-width: 132px;
+    padding-left: 20px;
+    padding-top: 5px;
+  }
+  
+  .desktop-3 .overlap-group-1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 4px solid;
+    border-color: var(--science-blue);
+    border-radius: 30px;
+    display: flex;
+    height: 79px;
+    min-width: 306px;
+    padding: 17px 16px;
+  }
+  
+  .desktop-3 .faire-une-reservation {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 38px;
+    padding-left: 70px;
+    padding-top: 5px;
+  }
+  
+  .desktop-3 .group-8 {
+    margin-right: 4.0px;
+    margin-top: 51px;
+    min-width: 1368px;
+    z-index: 3;
+  }
+  
+  .desktop-3 .overlap-group-2 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454e270404327a502f86382/img/rectangle-27.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 457px;
+    justify-content: flex-end;
+    min-width: 1360px;
+    padding: 52px 37px;
+  }
+  
+  .desktop-3 .rectangle-3 {
+    height: 280px;
+    margin-top: 17px;
+    object-fit: cover;
+    width: 376px;
+  }
+  
+  .desktop-3 .flex-col-1 {
+    gap: 36px;
+    margin-left: 46px;
+    min-height: 218px;
+    width: 471px;
+  }
+  
+  .desktop-3 .flex-row-3 {
+    align-items: flex-start;
+    display: flex;
+    gap: 17px;
+    height: 62px;
+    min-width: 248px;
+  }
+  
+  .desktop-3 .le-gite-du-lac {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 45px;
+    min-width: 197px;
+  }
+  
+  .desktop-3 .situ-niaga-29 {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 120px;
+    width: 452px;
+  }
+  
+  .desktop-3 .group-9 {
+    margin-right: 4.0px;
+    margin-top: 51px;
+    min-width: 1368px;
+    z-index: 4;
+  }
+  
+  .desktop-3 .flex-col-2 {
+    gap: 36px;
+    margin-left: 46px;
+    min-height: 278px;
+    width: 471px;
+  }
+  
+  .desktop-3 .flex-row-4 {
+    align-items: flex-start;
+    display: flex;
+    height: 62px;
+    min-width: 248px;
+  }
+  
+  .desktop-3 .sabo-bade {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 45px;
+    min-width: 164px;
+  }
+  
+  .desktop-3 .icon-star-2 {
+    align-self: center;
+    margin-bottom: 8.15px;
+    margin-left: 6px;
+  }
+  
+  .desktop-3 .icon-thumbs_up-2 {
+    margin-left: 19px;
+  }
+  
+  .desktop-3 .dot-dun-restaurant {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 180px;
+    width: 452px;
+  }
+  
+  .desktop-3 .group-10 {
+    margin-right: 4.0px;
+    margin-top: 51px;
+    min-width: 1368px;
+    z-index: 5;
+  }
+  
+  .desktop-3 .overlap-group9 {
+    align-items: center;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454e270404327a502f86382/img/rectangle-27.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 457px;
+    justify-content: flex-end;
+    min-width: 1360px;
+    padding: 31px 37px;
+  }
+  
+  .desktop-3 .rectangle-37 {
+    height: 280px;
+    margin-bottom: 45.0px;
+    object-fit: cover;
+    width: 376px;
+  }
+  
+  .desktop-3 .flex-col-3 {
+    align-self: flex-start;
+    gap: 54px;
+    margin-left: 18px;
+    min-height: 266px;
+    width: 499px;
+  }
+  
+  .desktop-3 .flex-row-5 {
+    align-items: center;
+    display: flex;
+    height: 62px;
+    min-width: 484px;
+  }
+  
+  .desktop-3 .nyeleni-maison-du-sahel {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 45px;
+    min-width: 371px;
+  }
+  
+  .desktop-3 .icon-star-3 {
+    margin-bottom: 14.15px;
+    margin-left: 17px;
+  }
+  
+  .desktop-3 .icon-star-4 {
+    margin-bottom: 14.15px;
+  }
+  
+  .desktop-3 .icon-thumbs_up-3 {
+    align-self: flex-start;
+    margin-left: 12px;
+  }
+  
+  .desktop-3 .surname {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 150px;
+    width: 452px;
+  }
+  
+  .desktop-3 .overlap-group-container-1 {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 59px;
+    margin-top: 31.0px;
+    min-height: 188px;
+    width: 306px;
+  }
+  
+  .desktop-3 .overlap-group1-1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 4px solid;
+    border-color: var(--science-blue);
+    border-radius: 30px;
+    display: flex;
+    height: 79px;
+    min-width: 306px;
+    padding: 20px 16px;
+  }
+  
+  .desktop-3 .component-1 {
+    align-items: flex-start;
+    background-color: var(--science-blue);
+    height: 109px;
+    margin-top: 390px;
+    padding: 35px 414px;
+    z-index: 6;
+  }
+  
+  .desktop-3 .copyright-2023-a {
+    letter-spacing: 2.02px;
+    line-height: 26.8px;
+    min-height: 27px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .component {
+    display: flex;
+    justify-content: flex-end;
+    min-width: 1440px;
+  }
+  
+  .desktop-3 .flex-col-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .desktop-3 .group {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .desktop-3 .icon-star-5 {
+    height: 14px;
+    width: 25px;
+  }
+  
+  .desktop-3 .icon-thumbs_up-4 {
+    height: 34px;
+    width: 34px;
+  }
+  

@@ -1,0 +1,28 @@
+:root { 
+    --black: #000000;
+    --black-2: #00000069;
+    --science-blue: #006dc6;
+    --white: #ffffff;
+   
+    --font-size-l: 33px;
+    --font-size-m: 20px;
+    --font-size-s: 15px;
+   
+    --font-family-poppins: "Poppins", Helvetica;
+  }
+  .poppins-bold-science-blue-20px {
+    color: var(--science-blue);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .poppins-medium-black-20px {
+    color: var(--black-2);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
