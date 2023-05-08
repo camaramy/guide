@@ -374,3 +374,258 @@
     line-height: normal;
   }
   
+
+
+  /* screen - index */
+
+.index {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.index .component-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  gap: 277px;
+  height: 49px;
+  justify-content: flex-end;
+  min-width: 390px;
+  padding: 0 10px;
+}
+
+.index .rectangle-60 {
+  height: 42px;
+  object-fit: cover;
+  width: 48px;
+}
+
+.index .icon-bars {
+  align-items: center;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-top: 0.15px;
+  min-width: 30px;
+}
+
+.index .vector {
+  cursor: pointer;
+  height: 17px;
+  width: 30px;
+}
+
+.index .overlap-group {
+  height: 501px;
+  margin-right: -73px;
+  position: relative;
+  width: 449px;
+}
+
+.index .rectangle-65 {
+  background-color: var(--alto-3);
+  border-radius: 30px;
+  height: 494px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 366px;
+}
+
+.index .connexion {
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 203px;
+}
+
+.index .rectangle-50 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--science-blue);
+  border-radius: 30px;
+  height: 60px;
+  left: 70px;
+  position: absolute;
+  top: 53px;
+  width: 236px;
+}
+
+.index .se-connecter-avec-google {
+  left: 115px;
+  top: 76px;
+  width: 181px;
+}
+
+.index .icon-google {
+  height: 26px;
+  left: 85px;
+  position: absolute;
+  top: 70px;
+  width: 21px;
+}
+
+.index .rectangle-53 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--science-blue);
+  border-radius: 30px;
+  height: 60px;
+  left: 73px;
+  position: absolute;
+  top: 134px;
+  width: 233px;
+}
+
+.index .se-connecter-avec-apple {
+  left: 123px;
+  top: 151px;
+  width: 168px;
+}
+
+.index .ou {
+  left: 162px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 204px;
+  width: 33px;
+}
+
+.index .rectangle-51 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--science-blue);
+  border-radius: 30px;
+  height: 59px;
+  left: 29px;
+  position: absolute;
+  top: 236px;
+  width: 299px;
+}
+
+.index .rectangle-52 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--science-blue);
+  border-radius: 30px;
+  height: 56px;
+  left: 31px;
+  position: absolute;
+  top: 316px;
+  width: 299px;
+}
+
+.index .icon-eye {
+  height: 24px;
+  left: 283px;
+  position: absolute;
+  top: 332px;
+  width: 17px;
+}
+
+.index .se-souvenir-de-moi {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 392px;
+  width: 147px;
+}
+
+.index .mot-de-passe-oubli {
+  left: 231px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 393px;
+  width: 210px;
+}
+
+.index .rectangle-55 {
+  background-color: var(--science-blue);
+  border-radius: 30px;
+  height: 32px;
+  left: 95px;
+  position: absolute;
+  top: 423px;
+  width: 154px;
+}
+
+.index .inscrivez-vous {
+  left: 241px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 464px;
+  width: 208px;
+}
+
+.index .vous-navez-pas-de-compte {
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 465px;
+  width: 356px;
+}
+
+.index .se-connecter {
+  left: 113px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 425px;
+  width: 134px;
+}
+
+.index .icon-apple {
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 139px;
+  width: 25px;
+}
+
+.index .rectangle-54 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--science-blue);
+  height: 14px;
+  left: 36px;
+  position: absolute;
+  top: 393px;
+  width: 23px;
+}
+
+.index .email {
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 257px;
+}
+
+.index .password {
+  left: 76px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 328px;
+}
+
+.index .se-connecter-avec {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}

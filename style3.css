@@ -653,3 +653,439 @@
     width: 34px;
   }
   
+
+
+
+  
+.index {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.index .component-5 {
+  min-width: 390px;
+}
+
+.index .overlap-group {
+  height: 49px;
+  position: relative;
+  width: 390px;
+}
+
+.index .rectangle-59 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.index .rectangle-60 {
+  height: 42px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.index .icon-bars {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  left: 350px;
+  min-width: 30px;
+  top: 16px;
+}
+
+.index .vector {
+  cursor: pointer;
+  height: 17px;
+  width: 30px;
+}
+
+.index .overlap-group3 {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--science-blue);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  min-height: 296px;
+  padding: 11px 9px;
+  width: 358px;
+}
+
+.index .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 26px;
+  height: 39px;
+  margin-right: 66.0px;
+  margin-top: 20px;
+  min-width: 198px;
+}
+
+.index .destination {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  min-width: 75px;
+}
+
+.index .overlap-group9 {
+  align-self: flex-end;
+  border-radius: 30px;
+  height: 38px;
+  position: relative;
+  width: 97px;
+}
+
+.index .place {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.index .rectangle-25 {
+  background-color: var(--black-22);
+  border-radius: 30px;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.index .icon-chevron-down {
+  height: 11px;
+  left: 74px;
+  position: absolute;
+  top: 10px;
+  width: 12px;
+}
+
+.index .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 28px;
+  margin-left: 21.0px;
+  margin-top: 8px;
+  min-width: 285px;
+}
+
+.index .type-dhebergement {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  min-height: 20px;
+  min-width: 135px;
+}
+
+.index .overlap-group8 {
+  border-radius: 30px;
+  height: 32px;
+  position: relative;
+  width: 122px;
+}
+
+.index .chambre-simple {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.index .rectangle-22 {
+  background-color: var(--black-22);
+  border-radius: 30px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.index .icon-chevron-down-1 {
+  height: 11px;
+  left: 95px;
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.index .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 43px;
+  height: 35px;
+  margin-left: 7.0px;
+  margin-top: 18px;
+  min-width: 271px;
+}
+
+.index .date-de-depart {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  min-width: 99px;
+}
+
+.index .overlap-group6 {
+  align-self: flex-end;
+  border-radius: 30px;
+  height: 34px;
+  position: relative;
+  width: 129px;
+}
+
+.index .choisir {
+  left: 24px;
+  top: 7px;
+}
+
+.index .icon-calendar {
+  height: 18px;
+  left: 85px;
+  top: 8px;
+  width: 20px;
+}
+
+.index .rectangle-23 {
+  background-color: var(--black-22);
+  border-radius: 30px;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.index .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 39px;
+  margin-left: 1.0px;
+  margin-top: 23px;
+  min-width: 265px;
+}
+
+.index .date-darrive {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 3px;
+  min-height: 20px;
+  min-width: 93px;
+}
+
+.index .overlap-group5 {
+  border-radius: 30px;
+  height: 33px;
+  position: relative;
+  width: 133px;
+}
+
+.index .choisir-1 {
+  cursor: pointer;
+  left: 33px;
+  top: 8px;
+}
+
+.index .icon-calendar-1 {
+  cursor: pointer;
+  height: 15px;
+  left: 95px;
+  position: absolute;
+  top: 9px;
+  width: 20px;
+}
+
+.index .rectangle-31 {
+  background-color: var(--black-22);
+  border-radius: 30px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 133px;
+}
+
+.index .overlap-group7 {
+  align-self: flex-end;
+  height: 38px;
+  margin-top: 28px;
+  position: relative;
+  width: 171px;
+}
+
+.index .rectangle-26 {
+  background-color: var(--science-blue);
+  border-radius: 30px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.index .recherche {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 156px;
+}
+
+.index .overlap-group4 {
+  height: 271px;
+  margin-right: 5.55px;
+  margin-top: 50px;
+  position: relative;
+  width: 352px;
+}
+
+.index .rectangle-64 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--science-blue);
+  border-radius: 30px;
+  height: 271px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 349px;
+}
+
+.index .rectangle-28 {
+  height: 143px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 174px;
+}
+
+.index .group-14 {
+  height: 18px;
+  left: 230px;
+  position: absolute;
+  top: 47px;
+  width: 78px;
+}
+
+.index .radisson-hotel {
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 137px;
+}
+
+.index .proposant-un-hberge {
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 175px;
+  width: 227px;
+}
+
+.index .overlap-group1 {
+  height: 42px;
+  left: 226px;
+  position: absolute;
+  top: 86px;
+  width: 126px;
+}
+
+.index .rectangle-29 {
+  background-color: var(--science-blue);
+  border-radius: 30px;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.index .afficher-prix {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 109px;
+}
+
+.index .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--science-blue);
+  border-radius: 30px;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  left: 207px;
+  min-width: 136px;
+  padding: 5.5px 4.0px;
+  position: absolute;
+  top: 139px;
+}
+
+.index .faire-une-reservation {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+  width: 117px;
+}
+
+.index .component-1 {
+  align-self: flex-start;
+  background-color: var(--science-blue);
+  height: 95px;
+  justify-content: flex-end;
+  margin-left: -235px;
+  margin-top: 87px;
+  min-width: 887px;
+  padding: 30.4px 255.0px;
+}
+
+.index .copyright-2023-a {
+  letter-spacing: 1.22px;
+  line-height: 16.1px;
+  min-height: 24px;
+  width: 376px;
+}
+
+.index .choisir-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .component {
+  align-items: flex-start;
+  display: flex;
+}
+
+.index .icon {
+  cursor: pointer;
+  position: absolute;
+}

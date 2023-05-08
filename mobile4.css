@@ -1,0 +1,335 @@
+/* screen - index */
+
+.index {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    height: 844px;
+    overflow: hidden;
+    width: 390px;
+  }
+  
+  .index .overlap-group1 {
+    height: 560px;
+    margin-left: -2px;
+    position: relative;
+    width: 465px;
+  }
+  
+  .index .component-5 {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    gap: 277px;
+    height: 49px;
+    justify-content: flex-end;
+    left: 2px;
+    min-width: 390px;
+    padding: 0 10px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .rectangle-60 {
+    height: 42px;
+    object-fit: cover;
+    width: 48px;
+  }
+  
+  .index .icon-bars {
+    align-self: center;
+    cursor: pointer;
+    height: 17px;
+    margin-top: 0.15px;
+    width: 30px;
+  }
+  
+  .index .rectangle-65 {
+    background-color: var(--alto-3);
+    border-radius: 30px;
+    height: 494px;
+    left: 16px;
+    position: absolute;
+    top: 59px;
+    width: 366px;
+  }
+  
+  .index .connexion {
+    left: 144px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 69px;
+    width: 203px;
+  }
+  
+  .index .rectangle-50 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--science-blue);
+    border-radius: 30px;
+    height: 60px;
+    left: 86px;
+    position: absolute;
+    top: 112px;
+    width: 236px;
+  }
+  
+  .index .se-connecter-avec-google {
+    left: 131px;
+    top: 135px;
+    width: 181px;
+  }
+  
+  .index .icon-google {
+    height: 26px;
+    left: 101px;
+    position: absolute;
+    top: 129px;
+    width: 21px;
+  }
+  
+  .index .rectangle-53 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--science-blue);
+    border-radius: 30px;
+    height: 60px;
+    left: 89px;
+    position: absolute;
+    top: 193px;
+    width: 233px;
+  }
+  
+  .index .se-connecter-avec-apple {
+    left: 139px;
+    top: 210px;
+    width: 168px;
+  }
+  
+  .index .ou {
+    left: 178px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 263px;
+    width: 33px;
+  }
+  
+  .index .rectangle-51 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--science-blue);
+    border-radius: 30px;
+    height: 59px;
+    left: 45px;
+    position: absolute;
+    top: 295px;
+    width: 299px;
+  }
+  
+  .index .rectangle-52 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--science-blue);
+    border-radius: 30px;
+    height: 56px;
+    left: 47px;
+    position: absolute;
+    top: 375px;
+    width: 299px;
+  }
+  
+  .index .icon-eye {
+    height: 24px;
+    left: 299px;
+    position: absolute;
+    top: 391px;
+    width: 17px;
+  }
+  
+  .index .se-souvenir-de-moi {
+    left: 86px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 451px;
+    width: 147px;
+  }
+  
+  .index .mot-de-passe-oubli {
+    left: 247px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 452px;
+    width: 210px;
+  }
+  
+  .index .rectangle-55 {
+    background-color: var(--science-blue);
+    border-radius: 30px;
+    height: 32px;
+    left: 111px;
+    position: absolute;
+    top: 482px;
+    width: 154px;
+  }
+  
+  .index .inscrivez-vous {
+    left: 257px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 523px;
+    width: 208px;
+  }
+  
+  .index .vous-navez-pas-de-compte {
+    left: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 524px;
+    width: 356px;
+  }
+  
+  .index .se-connecter {
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 484px;
+    width: 134px;
+  }
+  
+  .index .icon-apple {
+    height: 38px;
+    left: 108px;
+    position: absolute;
+    top: 198px;
+    width: 25px;
+  }
+  
+  .index .rectangle-54 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--science-blue);
+    height: 14px;
+    left: 52px;
+    position: absolute;
+    top: 452px;
+    width: 23px;
+  }
+  
+  .index .email {
+    left: 93px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 316px;
+  }
+  
+  .index .password {
+    left: 92px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 387px;
+  }
+  
+  .index .overlap-group {
+    background-color: var(--black-4);
+    height: 506px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .index .rectangle-68 {
+    background-color: var(--white);
+    height: 446px;
+    left: 217px;
+    position: absolute;
+    top: 41px;
+    width: 173px;
+  }
+  
+  .index .accueil {
+    left: 264px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 112px;
+  }
+  
+  .index .destination {
+    left: 264px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 158px;
+  }
+  
+  .index .place {
+    left: 264px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 208px;
+  }
+  
+  .index .vector {
+    height: 28px;
+    left: 264px;
+    position: absolute;
+    top: 274px;
+    width: 38px;
+  }
+  
+  .index .icon-search {
+    cursor: pointer;
+    height: 28px;
+    left: 264px;
+    position: absolute;
+    top: 388px;
+    width: 40px;
+  }
+  
+  .index .fr {
+    left: 271px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 329px;
+    white-space: nowrap;
+    width: 24px;
+  }
+  
+  .index .ellipse-8 {
+    background-color: var(--red);
+    border-radius: 17.5px;
+    height: 35px;
+    left: 229px;
+    position: absolute;
+    top: 55px;
+    width: 35px;
+  }
+  
+  .index .x {
+    cursor: pointer;
+    left: 239px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 58px;
+  }
+  
+  .index .se-connecter-avec {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  

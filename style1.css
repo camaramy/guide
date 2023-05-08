@@ -530,3 +530,383 @@
     width: 390px;
   }
   
+
+
+
+
+
+
+
+
+  .index {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1440px;
+    overflow: hidden;
+    width: 390px;
+  }
+  
+  .index .component-5 {
+    background-color: var(--white);
+    gap: 277px;
+    height: 49px;
+    min-width: 390px;
+    padding: 0 10px;
+  }
+  
+  .index .rectangle-60 {
+    height: 42px;
+    object-fit: cover;
+    width: 48px;
+  }
+  
+  .index .icon-bars {
+    align-self: center;
+    cursor: pointer;
+    height: 17px;
+    margin-top: 0.15px;
+    width: 30px;
+  }
+  
+  .index .overlap-group-1 {
+    height: 342px;
+    margin-top: 11px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .index .rectangle-61 {
+    height: 244px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .index .rectangle-42 {
+    height: 342px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .index .rectangle-62 {
+    background-color: var(--cod-gray);
+    border-radius: 30px;
+    height: 79px;
+    left: 73px;
+    position: absolute;
+    top: 218px;
+    width: 248px;
+  }
+  
+  .index .aller-a-la-decouverte-du-sngal {
+    left: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 233px;
+    white-space: nowrap;
+    width: 221px;
+  }
+  
+  .index .overlap-group7 {
+    height: 30px;
+    margin-right: 19.0px;
+    margin-top: 22px;
+    position: relative;
+    width: 315px;
+  }
+  
+  .index .line-11 {
+    height: 4px;
+    top: 20px;
+    width: 315px;
+  }
+  
+  .index .services {
+    left: 115px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .frame-7 {
+    align-items: flex-start;
+    display: flex;
+    gap: 15px;
+    height: 101px;
+    margin-right: 4.0px;
+    margin-top: 52px;
+    padding: 1px 0px 0px;
+    position: relative;
+    width: 330px;
+  }
+  
+  .index .rectangle-1 {
+    height: 100px;
+    min-width: 100px;
+    object-fit: cover;
+    position: relative;
+  }
+  
+  .index .overlap-group-container {
+    align-self: flex-end;
+    height: 85px;
+    margin-right: -33.0px;
+    margin-top: 17px;
+    position: relative;
+    width: 407px;
+  }
+  
+  .index .overlap-group1 {
+    height: 85px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 353px;
+  }
+  
+  .index .line-12 {
+    height: 5px;
+    top: 69px;
+    width: 353px;
+  }
+  
+  .index .destinations {
+    left: 115px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .index .voyages {
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 118px;
+  }
+  
+  .index .overlap-group6 {
+    height: 52px;
+    left: 127px;
+    position: absolute;
+    top: 0;
+    width: 280px;
+  }
+  
+  .index .hbergements {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 156px;
+  }
+  
+  .index .activits {
+    left: 133px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 147px;
+  }
+  
+  .index .flex-row {
+    align-items: flex-start;
+    display: flex;
+    gap: 50px;
+    margin-right: 0.64px;
+    margin-top: 69px;
+    min-width: 347px;
+  }
+  
+  .index .rectangle-4-1 {
+    width: 150px;
+  }
+  
+  .index .rectangle-4-2 {
+    width: 147px;
+  }
+  
+  .index .overlap-group-container-1 {
+    align-self: flex-end;
+    gap: 55px;
+    height: 28px;
+    margin-top: 2px;
+    min-width: 361px;
+  }
+  
+  .index .overlap-group9 {
+    align-self: flex-end;
+    height: 23px;
+    position: relative;
+    width: 142px;
+  }
+  
+  .index .line-1 {
+    height: 4px;
+    top: 9px;
+    width: 142px;
+  }
+  
+  .index .place {
+    left: 51px;
+  }
+  
+  .index .overlap-group5 {
+    height: 23px;
+    position: relative;
+    width: 164px;
+  }
+  
+  .index .line-16 {
+    height: 5px;
+    top: 13px;
+    width: 164px;
+  }
+  
+  .index .petite-cote {
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .flex-row-1 {
+    gap: 46px;
+    height: 98px;
+    margin-left: 3.65px;
+    margin-top: 52px;
+    min-width: 338px;
+  }
+  
+  .index .rectangle-4-3 {
+    align-self: flex-end;
+    width: 150px;
+  }
+  
+  .index .rectangle-4-4 {
+    width: 142px;
+  }
+  
+  .index .overlap-group-container-2 {
+    gap: 45px;
+    margin-left: 6.0px;
+    margin-top: 19px;
+    min-width: 346px;
+  }
+  
+  .index .overlap-group2 {
+    height: 21px;
+    position: relative;
+    width: 159px;
+  }
+  
+  .index .line-14 {
+    height: 5px;
+    top: 8px;
+    width: 159px;
+  }
+  
+  .index .place-1 {
+    left: 40px;
+  }
+  
+  .index .overlap-group {
+    height: 23px;
+    position: relative;
+    width: 142px;
+  }
+  
+  .index .flex-row-2 {
+    gap: 54px;
+    margin-left: 14.0px;
+    margin-top: 26px;
+    min-width: 354px;
+  }
+  
+  .index .rectangle-4 {
+    height: 90px;
+    object-fit: cover;
+    width: 150px;
+  }
+  
+  .index .overlap-group-container-3 {
+    gap: 63px;
+    margin-left: 21.0px;
+    margin-top: 7px;
+    min-width: 347px;
+  }
+  
+  .index .line-18 {
+    height: 4px;
+    top: 14px;
+    width: 142px;
+  }
+  
+  .index .place-2 {
+    left: 43px;
+  }
+  
+  .index .component-1 {
+    background-color: var(--science-blue);
+    height: 95px;
+    margin-right: 5.0px;
+    margin-top: 110px;
+    min-width: 887px;
+    padding: 30.4px 255.0px;
+  }
+  
+  .index .copyright-2023-a {
+    letter-spacing: 1.22px;
+    line-height: 16.1px;
+    min-height: 24px;
+    width: 376px;
+  }
+  
+  .index .component {
+    align-items: flex-start;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .index .flex-row-3 {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .index .line {
+    left: 0;
+    position: absolute;
+  }
+  
+  .index .overlap-group-container-4 {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .index .place-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .rectangle-4-5 {
+    height: 91px;
+    object-fit: cover;
+  }
+  
